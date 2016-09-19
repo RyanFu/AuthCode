@@ -64,7 +64,6 @@
 
 - (void)yanzhengAction {
     
-    
     BOOL isOk = [wsCode startAuthWithString:textF.text];
     
 
